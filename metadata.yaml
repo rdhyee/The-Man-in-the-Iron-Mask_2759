@@ -1,0 +1,37 @@
+_repo: The-Man-in-the-Iron-Mask_2759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: 'Translation of: L''homme au masque de fer'
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- !lcsh 'Man in the Iron Mask -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Romances'
+- !lcsh 'Swordsmen -- Fiction'
+- GITenberg
+title: The Man in the Iron Mask
+url: http://www.gutenberg.org/ebooks/2759
